@@ -1,0 +1,53 @@
+body {
+    padding-top: 50px;
+  }
+  .starter-template {
+    padding: 40px 15px;
+    text-align: center;
+  }
+  .content-area {
+    margin: 30px;
+  }
+  .input-area {
+    margin: 25px;
+  }
+  .task-text {
+    display: flex;
+    align-items: center;
+    height: 40px;
+  }
+  .hidden {
+    display: none;
+  }
+  .delete-icon-area {
+    display: flex;
+    align-items: center;
+    height: 40px;
+  }
+  .delete-icon {
+    color: red;
+  }
+  .complete {
+    text-decoration: line-through;
+  }
+  .icon{
+    color: #28a745;
+    /* padding: 1px; */
+    padding-right: 5px;
+  }
+  .navbar-brand{
+    color: #28a745;
+    margin-left: 360px;
+    font-weight: bold;
+  }
+  .list-group{
+    margin-top: 60px;
+  }
+  .btnC{
+    margin-left: 96px;
+    margin-top: 40px;
+  }
+  .btn{
+    width: 94px;
+    height: 40px;
+  }
